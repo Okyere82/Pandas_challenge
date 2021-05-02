@@ -1,0 +1,8 @@
+Heroes Of Pymoli Data Analysis
+
+1.The data under study displayed that non-disclosed/other gender group was those who had the highest average purchase
+
+2.The data also displayed that those individuals who fell between the age group 20 - 24 gained the highest purchases
+
+3.The data also revealed that individuals who fell within the age 40 and plus were those who spend the most and they 
+had the most returns
